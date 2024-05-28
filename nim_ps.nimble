@@ -14,4 +14,4 @@ requires "jester >= 0.4.3"
 
 # Source files
 
-bin           = @["http/main"]
+bin           = @["main"]
